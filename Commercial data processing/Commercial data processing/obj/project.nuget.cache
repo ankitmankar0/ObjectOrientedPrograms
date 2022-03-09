@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+qIIy8wBbIMZ5Yj0T6GmLD8nz/x/kRFc+YQ3EmbwAMPptoxkRl6BdeGS7jurJSBmFpRljKQiNwykTkPlXgscA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Inventory Management\\Commercial data processing\\Commercial data processing\\Commercial data processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

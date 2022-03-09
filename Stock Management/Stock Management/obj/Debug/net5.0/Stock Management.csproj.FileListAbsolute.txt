@@ -1,0 +1,18 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Stock Management.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.csproj.CopyComplete
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\refint\Stock Management.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\Stock Management.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Stock Management\Stock Management\obj\Debug\net5.0\ref\Stock Management.dll
